@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Jom ke Sarawak</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_quit">Quit</string>
+
+    <string name="welcome"> Selamat Datang ke applikasi "Jom ke Sarawak"</string>
+
+    <string name="guide"> Klik pada butang disudut kiri untuk lihat pilihan</string>
+    <string name="sarawaklogo">logo</string>
+
+    <string name="title_activity_etnik_kelahiran">Kelahiran</string>
+    <string name="title_activity_etnik__perkahwinan">Perkahwinan</string>
+    <string name="title_activity_etnik_suku">Suku Sarawak</string>
+    <string name="title_activity_etnik_suku_melanau">Suku Melanau</string>
+    <string name="title_activity_etnik_suku_bidayuh">Suku Bidayuh</string>
+    <string name="title_activity_etnik_suku_melayu">Suku Melayu</string>
+    <string name="title_activity_etnik_suku_kejaman">Suku Kejaman</string>
+
+    <string name="title_activity_etnik_tarian">Tarian Sarawak</string>
+    <string name="title_activity_makanan_ikankasam">Ikan Kasam</string>
+    <string name="title_activity_makanan_keklapis">Kek Lapis</string>
+    <string name="title_activity_makanan_umai">Umai</string>
+    <string name="title_activity_perayaan_harigawai">Hari Gawai</string>
+    <string name="title_activity_perayaan_pestakaulmelanau">Pesta Kaul Melanau</string>
+    <string name="title_activity_tempat_tamangambir">Taman Negara Gambir</string>
+    <string name="title_activity_tempat_tugu">Tugu Sarawak</string>
+    <string name="title_activity_tempat_peta">Peta Sarawak</string>
+    <string name="title_activity_tempat_gunungmulu">Gunung Mulu</string>
+    <string name="title_activity_tempat_muziumkuching">Muzium Kuching</string>
+
+    <string name="next">Teruskan</string>
+    <string name="back">Kebelakang</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="description01">Description</string>
+    <!-- text di content -->
+    <string name="makanan_umai">"Umai merupakan hidangan yang berasaskan ikan mentah dengan campuran beberapa bahan lain seperti bawang, cili, garam dan juga perahan air limau.
+        Kalau di semenanjung Malaysia lebih sinonom dengan panggilan kerabu.
+        Namun rasa dia memang lain daripada kerabu biasa dan lebih pedas.
+        Pada umumnya, umai juga sangat popular di kalangan kaum melanau dan kini jadi hidangan ikonik untuk orang negeri Sarawak."</string>
+
+    <string name="makanan_keklapis">"Kek Lapis Sarawak adalah makanan komersial di Sarawak.
+        Cara pembuatannya banyak dipelajari olehanak-anak jati di Sarawak. Kek Lapis Sarawak amat popular sehingga VVIP dariluar Sarawak menggemari Kek ini.
+        Malah, Sultan Brunei juga mencemar duli untuk mendapatkan Kek Lapis Sarawak."</string>
+
+
+    <string name="kelahiransarawak">Kelahiran di Sarawak</string>
+    <string name="perkahwinansarawak">Perkahwinan di Sarawak</string>
+
+    <string name="sukusarawak">Suku-suku di Sarawak</string>
+
+    <string name="sukusarawak_umum">"Sarawak yang dikenali sebagai 'Negeri Bumi Kenyalang' dan merupakan negeri yang mempunyai kepelbagaian etnik.
+        Terdapat kira-kira 30 kumpulan etnik di Sarawak.
+        Kaum Iban merupakan suku kaum yang terbesar di Sarawak, di ikuti oleh kaum Cina, Melayu, Bidayuh, Melanau dan kaum-kaum etnik yang lain.
+        Sebagai sebuah negeri yang mempunyai pelbagai bangsa dan suku kaum, sudah pasti terdapat pelbagai kebudayaan dan adat resam yang diamalkan."</string>
+    
+    <string name="sukusarawak_bidayuh">
+    "BIDAYUH\n\n"
+    "Masyarakat Bidayuh adalah masyarakat Sarawak yang kebanyakkan tinggal di kawasan pergunungan.
+        Masyarakat ini juga tinggal di kawasan luar bandar.
+        Terdapat juga masyarakat Bidayuh yang telah datang berhijrah ke bandar untuk mencari rezeki.
+        Namun demikian Masyarakat Bidayuh masih kuat dalam pegangan adat resam mereka.
+        Kebudayaan dan adat resam banyak dipengaruhi oleh unsur-unsur ritual dan kpercayaan yang mereka anuti."</string>
+
+
+    <string name="sukusarawak_iban">"IBAN\n\n"
+    "Terdapat pelbagai suku kaum masyarakat Iban seperti Lemanak, Balau, Sebuyau, dan banyak lagi.
+        Masyarakat ini( Iban ) masih kuat dengan pegangan adat resam mereka di samping masih mengekalkan tradisi yang menggambarkan identiti kaum mereka.
+        Dari segi geografi, kebanyakkan masyarakat Iban tinggal di kawasan pedalaman yang tertumpu di kawasan tengah-tengah kedudukan geografi negeri Sarawak.
+        Namun terdapat juga sebilangan kecil menetap di kawasan bandar."
+</string>
+
+    <string name="sukusarawak_melanau">"MELANAU\n\n"
+        Masyarakat Melanaumerupakanmasyarakatetnik yang terdapat di sarawak.
+        Umumnya masyarakat Melanau mempunyai persamaandenganmasyarakatMelayuterutamanyadarisegikepercayaan, kebudayaandanadatresam.
+        Justeru itu masyarakat ini merupakan satu cabang masyarakat Melayu.
+        Namun begitu Masyarakat melanau tetap mempuyai budaya dan adat resam mereka tersendiri
+</string>
+
+    <string name="sukusarawak_melayu">"MELAYU\n\n"
+        "Melayu merupakan salah satu masyarakat yang asalnya berasal dari Sarawak. Terdapat 21% daripada keseluruhan populasi masyarakat di negeri Sarawak. Kebayakkan masyarakat Melayumenjalankan aktiviti nelayan
+        untuk mencari dan menambahkan rezeki.
+        Namun terdapat banyak juga dari mereka yang sudah berpindah ke bandar kerana telah melibatkan diri dalam sektor-sektor ekonomi, sektor awam, swasta dan sebagainya.
+        Dari struktur perumahan pula, masyarakat Melayu membina rumah menggunakan kayu dan mereka membina rumah di tepi sungai yang jauh dari bandar.
+        Masyarakat Melayu Sarawak adalah beragama Islam di mana Islam telah di bawa ke Asia sejak 1000 tahun dahulu.
+        Agama Islam banyak mempengaruhi kehidupan masyarakat Melayu Sarawak terutama aspek kebudayaan dan kesenian.
+        Bagi aspek pembinaan, kebanyakan rumah atau bangunan mempunyai simbol atau ciri-ciri keislaman.
+        Begitu juga dengan adat resam perkahwinan yang sememangnya berlandaskan Islam."
+</string>
+
+    <string name="sukusarawak_kejaman">"Terdapat suku kaum/etnik minoriti yang tidak pernah didengar seperti Kejaman,
+        Sekapan, Bukitan, Lahanan, Sihan, ukit, dansebagainya. SukukaumLahanan, Sekapan, dan Kejaman adalah mempunyai tradisi yang hampir sama.
+        Kebanyakkan kaum ini beragama kristian. Kaum ini juga terletak dalam satu kategori kaum yang boleh dikenali sebagai suku KAJANG.
+        Namun demikian setiap kaum ini mempunyai bahasanya tersendiri".</string>
+
+
+    <string name="tariansarawak">Tarian di Sarawak</string>
+    <string name="makanansarawak1">Ikan kasam makanan di Sarawak</string>
+    <string name="perayaansarawak1">Perayaan Hari Gawai di Sarawak</string>
+    <string name="perayaansarawak2">Perayaan Pesta Kaul Melanau di Sarawak</string>
+    <string name="tempatsarawak1">Taman Negara Gambir tempat menarik di Sarawak</string>
+    <string name="tempatsarawak2">Kuching tempat tugu menarik di Sarawak</string>
+
+    <string name="tempatsarawak3">
+    "Mulu merupakan sebuah gunung yang terdapat di negeri Sarawak Bumi Kenyalang, Malaysia."
+        "Gunung Mulu mempunyai ketinggian setinggi 2,371 meter.
+        Gunung Mulu mempunyai kawasan hutan Dipterokarp Bukit, hutan Dipterokarp Atas, hutan Montane, dan Hutan Ericaceous atau hutan gunung.
+        Gunung Mulu merupakan puncak tertinggi di Taman Negara Mulu."
+    </string>
+    
+    <string name="tempatsarawak4">
+    "Muzium Kucing merupakan muzium kucing di Kuching, Sarawak, Malaysia. 
+    Ia ditubuhkan pada tahun 1993 dan dimiliki oleh Dewan Bandaraya Kuching Utara (DBKU)."
+    </string>
+
+    <string name="tempat_peta">"PETA BUMI KENYALANG"
+        "Nama Sarawak berasal daripada Sungai Sarawak. Sungai Sarawak meliputi kawasan yang digelar sebagai 'Sarawak Propster' menganjur dari pedalaman Kuching di Bau sehingga ke Samarahan."</string>
+    <string name="title_activity_etnik_suku_iban">Etnik_suku_iban</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+    </string>
+
+
+
+
+</resources>

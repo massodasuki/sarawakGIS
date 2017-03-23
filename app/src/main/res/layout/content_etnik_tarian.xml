@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.masso.sarawaktour.Etnik_tarian">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:weightSum="1">
+
+        <!-- Blank For Spacing -->
+        <ImageView
+            android:id="@+id/blank"
+            android:layout_width="300dp"
+            android:layout_height="600dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            />
+        <!-- Blank for spacing end-->
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tariansarawak"
+            android:layout_alignParentStart="true"
+            android:layout_alignEnd="@+id/blank"
+            android:layout_marginLeft="@dimen/text_margin"
+            android:layout_marginRight="@dimen/text_margin" />
+
+        <ImageView
+            android:id="@+id/kelahiran0"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:src="@drawable/etnik_tariansarawak1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignEnd="@+id/header" />
+
+        <ImageView
+            android:id="@+id/kelahiran1"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:src="@drawable/etnik_tariansarawak2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignEnd="@+id/kelahiran0" />
+
+        <ImageView
+            android:id="@+id/kelahiran2"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:src="@drawable/etnik_tariansarawak3"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignEnd="@+id/kelahiran1" />
+
+
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/next"
+            android:id="@+id/next"
+            android:layout_alignParentStart="true"
+            android:layout_alignEnd="@+id/kelahiran2"/>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/back"
+            android:id="@+id/back"
+            android:layout_alignParentStart="true"
+            android:layout_alignEnd="@+id/next"/>
+
+    </TableLayout>
+
+</android.support.v4.widget.NestedScrollView>

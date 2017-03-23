@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.masso.sarawaktour">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Etnik_kelahiran"
+            android:label="@string/title_activity_etnik_kelahiran"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Etnik_perkahwinan"
+            android:label="@string/title_activity_etnik__perkahwinan"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Etnik_suku"
+            android:label="@string/title_activity_etnik_suku"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Etnik_tarian"
+            android:label="@string/title_activity_etnik_tarian"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Makanan_ikankasam"
+            android:label="@string/title_activity_makanan_ikankasam"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Makanan_keklapis"
+            android:label="@string/title_activity_makanan_keklapis"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Makanan_umai"
+            android:label="@string/title_activity_makanan_umai"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Perayaan_harigawai"
+            android:label="@string/title_activity_perayaan_harigawai"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Perayaan_pestakaulmelanau"
+            android:label="@string/title_activity_perayaan_pestakaulmelanau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tempat_tamangambir"
+            android:label="@string/title_activity_tempat_tamangambir"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tempat_tugu"
+            android:label="@string/title_activity_tempat_tugu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tempat_peta"
+            android:label="@string/title_activity_tempat_peta"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Etnik_suku_iban"
+            android:label="@string/title_activity_etnik_suku_iban"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Etnik_suku_melanau"
+            android:label="@string/title_activity_etnik_suku_melanau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Etnik_suku_bidayuh"
+            android:label="@string/title_activity_etnik_suku_bidayuh"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Etnik_suku_melayu"
+            android:label="@string/title_activity_etnik_suku_melayu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Etnik_suku_kejaman"
+            android:label="@string/title_activity_etnik_suku_kejaman"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tempat_gunungmulu"
+            android:label="@string/title_activity_tempat_gunungmulu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tempat_muziumkuching"
+            android:label="@string/title_activity_tempat_muziumkuching"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

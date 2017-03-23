@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/etnik"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Etnik" />
+        <item
+            android:id="@+id/perayaan"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Perayaan" />
+        <item
+            android:id="@+id/makanan"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Makanan" />
+        <item
+            android:id="@+id/tempat"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Tempat Menarik" />
+        <item
+            android:id="@+id/peta"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Peta Sarawak" />
+    </group>
+    <!--
+    <item android:title="Lokasi">
+        <menu>
+            <item
+                android:id="@+id/kuching"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Kuching" />
+            <item
+                android:id="@+id/taman"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Anjing" />
+        </menu>
+    </item> -->
+
+</menu>
